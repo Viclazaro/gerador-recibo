@@ -18,8 +18,7 @@
 
 O **Gerador de Recibo** permite criar recibos personalizados em formato PDF diretamente pelo navegador.
 
-- Geração dinâmica de recibos
-- Inserção de dados como nome, valor e descrição
+- Geração de recibos
 - Formatação automática do documento
 - Download do PDF pronto
 
