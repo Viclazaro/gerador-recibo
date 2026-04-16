@@ -30,7 +30,6 @@ O **Gerador de Recibo** permite criar recibos personalizados em formato PDF dire
 <p>
   <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/FPDF-ff9800?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
 ---
