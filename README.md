@@ -42,3 +42,17 @@ O **Gerador de Recibo** permite criar recibos personalizados em formato PDF dire
 ├── fpdf/
 │   └── fpdf.php
 └── README.md
+```
+
+## ➢ Como Executar o Projeto
+
+1. Abra o terminal na pasta do projeto
+2. Execute:
+```bash
+php -S localhost:8000
+```
+
+3. Acesse:
+```bash
+http://localhost:8000
+```
