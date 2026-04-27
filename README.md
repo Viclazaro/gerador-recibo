@@ -56,3 +56,17 @@ php -S localhost:8000
 ```bash
 http://localhost:8000
 ```
+## ➢ Autora
+
+Projeto desenvolvido por **Victória** 
+Estudante de Engenharia da Computação.
+
+---
+
+*✎... Este projeto representa mais um passo na minha jornada na programação.*
+
+---
+
+## 📄 Licença
+
+*Este projeto é apenas para fins educacionais.
